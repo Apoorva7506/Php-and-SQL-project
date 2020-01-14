@@ -1,5 +1,5 @@
 # Php-and-SQL-project
-## This is an ecommerce website made using php, sql and frontend technologies.
+## This is an elegant ecommerce website made using php, sql and frontend technologies.
 
 
 - store contains database files.
