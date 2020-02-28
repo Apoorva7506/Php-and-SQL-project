@@ -7,7 +7,9 @@
 - Php checks with sql database for the same and starts a session or gives error message.
 - Following is the Layout of the site.
 <img src="MyProject/project_screenshots/index.png" height="400">
+
 <img src="MyProject/project_screenshots/login.png" height="400">
+
 <img src="MyProject/project_screenshots/browse.png" height="400">
 
 - Notice the change in nav bar after logging in.
